@@ -25,3 +25,14 @@ Este projeto demonstra a criação de uma VM no Microsoft Azure e o deploy de um
 ```bash
 docker pull nginx
 docker run -d -p 80:80 nginx
+
+```md
+## 📷 Prints
+
+![SSH](docs/prints/imagem(5).png)
+![Docker](docs/prints/imagem(6).png)
+![CreateContainer](docs/prints/imagem(7).png)
+![ContainerRun](docs/prints/imagem(8).png)
+![AzureVM](docs/prints/imagem(9).png)
+![ConectedIPPublic](docs/prints/imagem(10).png)
+
