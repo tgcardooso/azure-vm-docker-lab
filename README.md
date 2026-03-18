@@ -26,6 +26,8 @@ Este projeto demonstra a criação de uma VM no Microsoft Azure e o deploy de um
 docker pull nginx
 docker run -d -p 80:80 nginx
 
+```
+
 ## 📷 Etapas do laboratório
 
 ### 1. Criação da VM no Azure
