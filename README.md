@@ -26,11 +26,22 @@ Este projeto demonstra a criação de uma VM no Microsoft Azure e o deploy de um
 docker pull nginx
 docker run -d -p 80:80 nginx
 
-## 📷 Prints
+## 📷 Etapas do laboratório
 
-![SSH via CMD](imagem (5).png)
-![Docker](imagem (6).png)
-![Download image](imagem (7).png)
-![Create Container](imagem (8).png)
-![VM Azure](imagem (9).png)
-![HTTP](imagem (10).png)
+### 1. Criação da VM no Azure
+![VM Azure](AzureVM.png)
+
+### 2. Conexão via SSH
+![SSH](SSH.png)
+
+### 3. Instalação do Docker
+![Docker](DockerInstall.png)
+
+### 4. Download da imagem Nginx
+![Download](DownloadImage.png)
+
+### 5. Execução do container
+![Container](RunContainer.png)
+
+### 6. Acesso via navegador
+![HTTP](HTTP.png)
